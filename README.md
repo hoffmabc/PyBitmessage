@@ -1,3 +1,8 @@
+This project is a fork of the PyBitmessage protocol implementation to alter 
+and tweak the Proof of Work algorithm as we feel it is too intensive for 
+more real-time applications.
+
+
 PyBitmessage
 ============
 
